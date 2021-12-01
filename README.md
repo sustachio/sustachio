@@ -1,4 +1,26 @@
-Hi, I’m sustachio
-I am interseted in very basic graphics w/ minimal librarys
 
-Im not doing anything serious and most (if not all) of my stuff is just for fun!
+# sustachio
+## my username is not sus i swear if i hear that one more time
+---
+
+- graphics are cool
+- amatur at web design but still learning
+- i mostly use git to use files on multiple computers and not much version control stuff
+
+---
+
+### im good at:
+- python
+- html
+- css
+
+### im ok at
+- javascript
+- c++
+- c
+- jquery
+
+### i suck at
+- c#
+
+---

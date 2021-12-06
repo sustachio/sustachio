@@ -6,8 +6,8 @@
 ---
 
 - graphics are cool
-- amatur at web design but still learning
-- i mostly use git to use files on multiple computers and not much version control stuff
+- ok at web design
+- i mostly use github to use files on multiple computers and not much version control stuff
 
 ---
 

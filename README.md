@@ -2,7 +2,7 @@
 # sustachio
 ## my username is not sus i swear if i hear that one more time
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sustachio)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sustachio)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 - graphics are cool

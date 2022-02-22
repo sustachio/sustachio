@@ -8,7 +8,3 @@ nothing that I do is too serious, I am just exploring different things
 
 - I mainly do web stuff
 - Graphics in general are also fun
-
----
-
-## my username is not sus i swear if i hear that one more time

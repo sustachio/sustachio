@@ -5,6 +5,6 @@
 ---
 (the python is from a venv that I still have to delete)
 
-Nothing that I do is too serious, I am just exploring different things.
+Mostly self taught coder
 
 I'm currently working on a blog so look forward to that :)

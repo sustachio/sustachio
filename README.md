@@ -1,7 +1,7 @@
 
 # sustachio
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sustachio&layout=compact&theme=tokyonight&hide=shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sustachio&layout=compact&theme=tokyonight&hide=shaderlab,hlsl&exclude_repo=vim)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 Mostly self taught coder

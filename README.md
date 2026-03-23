@@ -10,3 +10,5 @@ I'm mostly focused on analog electronics (and ham radio) now-a-days, but coding 
 My blog is now up at [https://sethmueller.page](https://sethmueller.page)! (I need to update this more than I do)
 
 I mostly just use GitHub for uploading projects once when they need to be shared.
+
+I hope you have a good day today! ^_^

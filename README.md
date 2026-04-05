@@ -10,6 +10,7 @@ I mostly just use GitHub for uploading projects if they need to be shared or wor
 
 My favorite projects that have made their way onto my GitHub:
 
+- [Physical animated map of Germany](https://github.com/sustachio/GermanyAnimatedMap/tree/main) - This was a craft project for a German competition which used 235 LEDs on a custom PCB to show an animated map of territorial expansion in Germany, complete with an animated timeline and color key. An in-depth blog post can be found [here](https://sethmueller.page/post/animated-led-map-of-territorial-expansion-in-the-modern-day-german-region-road-trip-).
 - [Processor and programming language](https://github.com/sustachio/reduced-reduced-instruction-set-computer-and-compiler) - I'd been reading `Computer Architecture a Quantitative Approach` and wanted to follow along so I put together this 32 bit processor in `Logisim`. I needed some code to run on it and had always wanted to write a compiler so I wrote a simple object oriented language that could compile down to its custom ISA.
 - [My blog site](https://github.com/sustachio/blog) - See link below, doesn't get updated all that often but I do enjoy the style I choose and writing here every now and then.
 
